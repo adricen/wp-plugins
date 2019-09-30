@@ -1,0 +1,17 @@
+.modulaDrawing {
+  width: 100%;
+  overflow: scroll;
+}
+.modulaDrawing svg {
+  border: 1px solid black;
+}
+.image {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.image img {
+  height: 100vh;
+  width: auto;
+}
